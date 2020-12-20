@@ -1,0 +1,156 @@
+[
+  {
+    "description": "    As a user\n    I want to be able to searching",
+    "elements": [
+      {
+        "id": "searching-on-the-website;user-success-to-searching-on-the-website",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "User success to searching on the website",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "user langitmusik page",
+            "result": {
+              "status": "passed",
+              "duration": 1618000
+            },
+            "line": 9,
+            "match": {
+              "location": "Salsabila\\Downloads\\SearchFitur\\step-definitions\\invalidsearch-steps.js:2"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "user fill invalid search",
+            "result": {
+              "status": "passed",
+              "duration": 339400
+            },
+            "line": 10,
+            "match": {
+              "location": "Salsabila\\Downloads\\SearchFitur\\step-definitions\\invalidsearch-steps.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "user cannot see correct information",
+            "result": {
+              "status": "passed",
+              "duration": 13267309300
+            },
+            "line": 11,
+            "match": {
+              "location": "Salsabila\\Downloads\\SearchFitur\\step-definitions\\invalidsearch-steps.js:12"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 463428000
+            },
+            "hidden": true,
+            "match": {
+              "location": "Salsabila\\Downloads\\SearchFitur\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@success",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "searching-on-the-website",
+    "keyword": "Feature",
+    "line": 3,
+    "name": "Searching on the website",
+    "tags": [],
+    "uri": "C:/Users/Irbah Salsabila/Downloads/SearchFitur/features/invalidSearch.feature"
+  },
+  {
+    "description": "    As a user\n    I want to be able to searching",
+    "elements": [
+      {
+        "id": "searching-on-the-website;user-success-to-searching-on-the-website",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "User success to searching on the website",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "user browse langitmusik page",
+            "result": {
+              "status": "passed",
+              "duration": 578300
+            },
+            "line": 9,
+            "match": {
+              "location": "Salsabila\\Downloads\\SearchFitur\\step-definitions\\search-steps.js:2"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "user fill search field",
+            "result": {
+              "status": "passed",
+              "duration": 301501
+            },
+            "line": 10,
+            "match": {
+              "location": "Salsabila\\Downloads\\SearchFitur\\step-definitions\\search-steps.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "user can see the information",
+            "result": {
+              "status": "passed",
+              "duration": 194500
+            },
+            "line": 11,
+            "match": {
+              "location": "Salsabila\\Downloads\\SearchFitur\\step-definitions\\search-steps.js:12"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 19233991100
+            },
+            "hidden": true,
+            "match": {
+              "location": "Salsabila\\Downloads\\SearchFitur\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@success",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "searching-on-the-website",
+    "keyword": "Feature",
+    "line": 3,
+    "name": "Searching on the website",
+    "tags": [],
+    "uri": "C:/Users/Irbah Salsabila/Downloads/SearchFitur/features/search.feature"
+  }
+]

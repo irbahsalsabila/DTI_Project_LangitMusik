@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="searching-on-the-website;user-success-to-searching-on-the-website" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="@success" value="true">
+            </property>
+            <property name="URI" value="C:/Users/Irbah Salsabila/Downloads/SearchFitur/features/invalidSearch.feature">
+            </property>
+        </properties>
+        <testcase name="Given user langitmusik page" classname="searching-on-the-website;user-success-to-searching-on-the-website" time="0.001618">
+        </testcase>
+        <testcase name="When user fill invalid search" classname="searching-on-the-website;user-success-to-searching-on-the-website" time="0.0003394">
+        </testcase>
+        <testcase name="Then user cannot see correct information" classname="searching-on-the-website;user-success-to-searching-on-the-website" time="13.2673093">
+        </testcase>
+    </testsuite>
+    <testsuite name="searching-on-the-website;user-success-to-searching-on-the-website" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="@success" value="true">
+            </property>
+            <property name="URI" value="C:/Users/Irbah Salsabila/Downloads/SearchFitur/features/search.feature">
+            </property>
+        </properties>
+        <testcase name="Given user browse langitmusik page" classname="searching-on-the-website;user-success-to-searching-on-the-website" time="0.0005783">
+        </testcase>
+        <testcase name="When user fill search field" classname="searching-on-the-website;user-success-to-searching-on-the-website" time="0.000301501">
+        </testcase>
+        <testcase name="Then user can see the information" classname="searching-on-the-website;user-success-to-searching-on-the-website" time="0.0001945">
+        </testcase>
+    </testsuite>
+</testsuites>
