@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="see-promo-on-the-website;user-success-to-see-promo-on-the-website" tests="5" failures="0" skipped="0">
+        <properties>
+            <property name="@success" value="true">
+            </property>
+            <property name="URI" value="D:\functional-testing\features\promoo.feature">
+            </property>
+        </properties>
+        <testcase name="Given user browse langitmusik page" classname="see-promo-on-the-website;user-success-to-see-promo-on-the-website" time="0.0010877">
+        </testcase>
+        <testcase name="And user clik button content promo" classname="see-promo-on-the-website;user-success-to-see-promo-on-the-website" time="0.000231">
+        </testcase>
+        <testcase name="And user can see promo page" classname="see-promo-on-the-website;user-success-to-see-promo-on-the-website" time="0.0003266">
+        </testcase>
+        <testcase name="When user clik ongoing promo" classname="see-promo-on-the-website;user-success-to-see-promo-on-the-website" time="0.0003033">
+        </testcase>
+        <testcase name="Then user can see ongoing promo" classname="see-promo-on-the-website;user-success-to-see-promo-on-the-website" time="0.0005623">
+        </testcase>
+    </testsuite>
+</testsuites>
