@@ -1,0 +1,105 @@
+[
+  {
+    "description": "    As a user\n    I want to be able to upload music",
+    "elements": [
+      {
+        "id": "upload-music-on-the-website;user-success-to-upload-on-the-website",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "User success to upload on the website",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "user browse langit musik page",
+            "result": {
+              "status": "passed",
+              "duration": 1406300
+            },
+            "line": 9,
+            "match": {
+              "location": "C:\\Users\\ACER\\OneDrive\\Documents\\functional-learn\\step-definitions\\upload-steps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click menu upload lagu",
+            "result": {
+              "status": "passed",
+              "duration": 7870063100
+            },
+            "line": 10,
+            "match": {
+              "location": "C:\\Users\\ACER\\OneDrive\\Documents\\functional-learn\\step-definitions\\upload-steps.js:8"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click gabung sekarang",
+            "result": {
+              "status": "passed",
+              "duration": 643000
+            },
+            "line": 11,
+            "match": {
+              "location": "C:\\Users\\ACER\\OneDrive\\Documents\\functional-learn\\step-definitions\\upload-steps.js:25"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "user click masuk button",
+            "result": {
+              "status": "passed",
+              "duration": 235900
+            },
+            "line": 12,
+            "match": {
+              "location": "C:\\Users\\ACER\\OneDrive\\Documents\\functional-learn\\step-definitions\\upload-steps.js:44"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "user can see lagukuId page",
+            "result": {
+              "status": "passed",
+              "duration": 330800
+            },
+            "line": 13,
+            "match": {
+              "location": "C:\\Users\\ACER\\OneDrive\\Documents\\functional-learn\\step-definitions\\upload-steps.js:48"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 2577156400
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\ACER\\OneDrive\\Documents\\functional-learn\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@success",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "upload-music-on-the-website",
+    "keyword": "Feature",
+    "line": 3,
+    "name": "Upload music on the website",
+    "tags": [],
+    "uri": "C:\\Users\\ACER\\OneDrive\\Documents\\functional-learn\\features\\upload.feature"
+  }
+]

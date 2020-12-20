@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="upload-music-on-the-website;user-success-to-upload-on-the-website" tests="5" failures="0" skipped="0">
+        <properties>
+            <property name="@success" value="true">
+            </property>
+            <property name="URI" value="C:\Users\ACER\OneDrive\Documents\functional-learn\features\upload.feature">
+            </property>
+        </properties>
+        <testcase name="Given user browse langit musik page" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.0014063">
+        </testcase>
+        <testcase name="And user click menu upload lagu" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="7.8700631">
+        </testcase>
+        <testcase name="And user click gabung sekarang" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000643">
+        </testcase>
+        <testcase name="When user click masuk button" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.0002359">
+        </testcase>
+        <testcase name="Then user can see lagukuId page" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.0003308">
+        </testcase>
+    </testsuite>
+</testsuites>
