@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="upload-music-on-the-website;user-success-to-upload-on-the-website" tests="33" failures="0" skipped="0">
+        <properties>
+            <property name="@success" value="true">
+            </property>
+            <property name="URI" value="/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/features/uploadempty.feature">
+            </property>
+        </properties>
+        <testcase name="Given user redirect to the LagukuPage" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.00060569">
+        </testcase>
+        <testcase name="And user klik Gabung Sekarang" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000162826">
+        </testcase>
+        <testcase name="And user can see a login pop up" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000113885">
+        </testcase>
+        <testcase name="And user fill an username" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000096971">
+        </testcase>
+        <testcase name="And user fill a password" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000312003">
+        </testcase>
+        <testcase name="And user click button login" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000131528">
+        </testcase>
+        <testcase name="And user click button album" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000200639">
+        </testcase>
+        <testcase name="And user choose album then click view" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="15.332038966">
+        </testcase>
+        <testcase name="And user can see pop up" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000174745">
+        </testcase>
+        <testcase name="And user click button add song" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.344846744">
+        </testcase>
+        <testcase name="And user click button new" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000165505">
+        </testcase>
+        <testcase name="And user get a pop up fill the information" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.275971703">
+        </testcase>
+        <testcase name="And user input Song Name" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000548845">
+        </testcase>
+        <testcase name="And user input Song Name Original" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.00028949">
+        </testcase>
+        <testcase name="And User choose genre" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000196481">
+        </testcase>
+        <testcase name="And user input Issue Date" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000065865">
+        </testcase>
+        <testcase name="And user input Uniq Search Keyword" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000109672">
+        </testcase>
+        <testcase name="And user input Track No" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000073163">
+        </testcase>
+        <testcase name="And user click generate for label song code" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000075785">
+        </testcase>
+        <testcase name="And user choose Price" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000060467">
+        </testcase>
+        <testcase name="And user click add lyric" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000091624">
+        </testcase>
+        <testcase name="And user add lyric" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000068395">
+        </testcase>
+        <testcase name="And user click save to lyric" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000064334">
+        </testcase>
+        <testcase name="And user input audio in format wav" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000084134">
+        </testcase>
+        <testcase name="And user click browse" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000058268">
+        </testcase>
+        <testcase name="And user click Upload" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000052471">
+        </testcase>
+        <testcase name="And user wait until process upload done" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000050404">
+        </testcase>
+        <testcase name="And user get a pop up file succes to upload" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000323351">
+        </testcase>
+        <testcase name="And user click button save" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000105076">
+        </testcase>
+        <testcase name="And user get a pop up to save data" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000072341">
+        </testcase>
+        <testcase name="And user click yes" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000648043">
+        </testcase>
+        <testcase name="When user get a pop up sucess to upload music" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.0000842">
+        </testcase>
+        <testcase name="Then user click ok" classname="upload-music-on-the-website;user-success-to-upload-on-the-website" time="0.000058998">
+        </testcase>
+    </testsuite>
+</testsuites>

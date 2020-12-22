@@ -1,0 +1,470 @@
+[
+  {
+    "description": "    As a user\n    I want to be able to upload music",
+    "elements": [
+      {
+        "id": "upload-music-on-the-website;user-success-to-upload-on-the-website",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "User success to upload on the website",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "user redirect to the LagukuPage",
+            "result": {
+              "status": "passed",
+              "duration": 605690
+            },
+            "line": 9,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:2"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user klik Gabung Sekarang",
+            "result": {
+              "status": "passed",
+              "duration": 162826
+            },
+            "line": 10,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user can see a login pop up",
+            "result": {
+              "status": "passed",
+              "duration": 113885
+            },
+            "line": 11,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:12"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill an username",
+            "result": {
+              "status": "passed",
+              "duration": 96971
+            },
+            "line": 12,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:21"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill a password",
+            "result": {
+              "status": "passed",
+              "duration": 312003
+            },
+            "line": 13,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:26"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click button login",
+            "result": {
+              "status": "passed",
+              "duration": 131528
+            },
+            "line": 14,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:31"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click button album",
+            "result": {
+              "status": "passed",
+              "duration": 200639
+            },
+            "line": 15,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:36"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user choose album then click view",
+            "result": {
+              "status": "passed",
+              "duration": 15332038966
+            },
+            "line": 16,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:39"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user can see pop up",
+            "result": {
+              "status": "passed",
+              "duration": 174745
+            },
+            "line": 17,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:49"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click button add song",
+            "result": {
+              "status": "passed",
+              "duration": 344846744
+            },
+            "line": 18,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:55"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click button new",
+            "result": {
+              "status": "passed",
+              "duration": 165505
+            },
+            "line": 19,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:64"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user get a pop up fill the information",
+            "result": {
+              "status": "passed",
+              "duration": 275971703
+            },
+            "line": 20,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:69"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user input Song Name",
+            "result": {
+              "status": "passed",
+              "duration": 548845
+            },
+            "line": 21,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:74"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user input Song Name Original",
+            "result": {
+              "status": "passed",
+              "duration": 289490
+            },
+            "line": 22,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:79"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "User choose genre",
+            "result": {
+              "status": "passed",
+              "duration": 196481
+            },
+            "line": 23,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:84"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user input Issue Date",
+            "result": {
+              "status": "passed",
+              "duration": 65865
+            },
+            "line": 24,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:89"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user input Uniq Search Keyword",
+            "result": {
+              "status": "passed",
+              "duration": 109672
+            },
+            "line": 25,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:94"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user input Track No",
+            "result": {
+              "status": "passed",
+              "duration": 73163
+            },
+            "line": 26,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:99"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click generate for label song code",
+            "result": {
+              "status": "passed",
+              "duration": 75785
+            },
+            "line": 27,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:104"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user choose Price",
+            "result": {
+              "status": "passed",
+              "duration": 60467
+            },
+            "line": 28,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:109"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click add lyric",
+            "result": {
+              "status": "passed",
+              "duration": 91624
+            },
+            "line": 29,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:114"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user add lyric",
+            "result": {
+              "status": "passed",
+              "duration": 68395
+            },
+            "line": 30,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:119"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click save to lyric",
+            "result": {
+              "status": "passed",
+              "duration": 64334
+            },
+            "line": 31,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:122"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user input audio in format wav",
+            "result": {
+              "status": "passed",
+              "duration": 84134
+            },
+            "line": 32,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:125"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click browse",
+            "result": {
+              "status": "passed",
+              "duration": 58268
+            },
+            "line": 33,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:128"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click Upload",
+            "result": {
+              "status": "passed",
+              "duration": 52471
+            },
+            "line": 34,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:131"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user wait until process upload done",
+            "result": {
+              "status": "passed",
+              "duration": 50404
+            },
+            "line": 35,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:134"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user get a pop up file succes to upload",
+            "result": {
+              "status": "passed",
+              "duration": 323351
+            },
+            "line": 36,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:137"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click button save",
+            "result": {
+              "status": "passed",
+              "duration": 105076
+            },
+            "line": 37,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:140"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user get a pop up to save data",
+            "result": {
+              "status": "passed",
+              "duration": 72341
+            },
+            "line": 38,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:146"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click yes",
+            "result": {
+              "status": "passed",
+              "duration": 648043
+            },
+            "line": 39,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:149"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "user get a pop up sucess to upload music",
+            "result": {
+              "status": "passed",
+              "duration": 84200
+            },
+            "line": 40,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:152"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "user click ok",
+            "result": {
+              "status": "passed",
+              "duration": 58998
+            },
+            "line": 41,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:155"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "failed",
+              "duration": 152452731,
+              "error_message": "NoSuchElementError: Unable to locate element: //textarea[@class='form-control ng-valid ng-touched ng-dirty ng-valid-parse ng-empty']\n    at Object.throwDecodedError (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/error.js:497:15)\n    at parseHttpResponse (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/http.js:519:13)\n    at /Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/http.js:441:30\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)\nFrom: Task: WebDriver.findElement(By(xpath, //textarea[@class='form-control ng-valid ng-touched ng-dirty ng-valid-parse ng-empty']))\n    at thenableWebDriverProxy.schedule (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at thenableWebDriverProxy.findElement (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/webdriver.js:1014:17)\n    at Object.performFill (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/page-objects/fieldunique.js:13:23)\n    at /Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:96:37\n    at ManagedPromise.invokeCallback_ (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/promise.js:1384:14)\n    at TaskQueue.execute_ (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/promise.js:3092:14)\n    at TaskQueue.executeNext_ (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/promise.js:3075:27)\n    at /Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/promise.js:2935:27\n    at /Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/promise.js:676:7\n    at runMicrotasks (<anonymous>)\nFrom: Task: WebElement.sendKeys()\n    at thenableWebDriverProxy.schedule (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/webdriver.js:807:17)\n    at WebElementPromise.schedule_ (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/webdriver.js:2015:25)\n    at WebElementPromise.sendKeys (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/webdriver.js:2178:19)\n    at Object.performFill (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/page-objects/fieldunique.js:13:45)\n    at /Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/step-definitions/uploadempty-steps.js:96:37\n    at ManagedPromise.invokeCallback_ (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/promise.js:1384:14)\n    at TaskQueue.execute_ (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/promise.js:3092:14)\n    at TaskQueue.executeNext_ (/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/promise.js:3075:27)\n    at /Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/promise.js:2935:27\n    at /Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-webdriver/lib/promise.js:676:7"
+            },
+            "hidden": true,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/testing/node_modules/selenium-cucumber-js/runtime/world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@success",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "upload-music-on-the-website",
+    "keyword": "Feature",
+    "line": 3,
+    "name": "Upload Music on the website",
+    "tags": [],
+    "uri": "/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/testing/features/uploadempty.feature"
+  }
+]
