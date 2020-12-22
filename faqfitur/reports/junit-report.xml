@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="see-faq-on-the-website;user-success-to-see-faq-the-website" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="@success" value="true">
+            </property>
+            <property name="URI" value="/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/faqfitur/features/faq.feature">
+            </property>
+        </properties>
+        <testcase name="Given website langit music" classname="see-faq-on-the-website;user-success-to-see-faq-the-website" time="0.00068361">
+        </testcase>
+        <testcase name="When user click link FAQ" classname="see-faq-on-the-website;user-success-to-see-faq-the-website" time="0.000174401">
+        </testcase>
+        <testcase name="Then User can see the FAQ on the website" classname="see-faq-on-the-website;user-success-to-see-faq-the-website" time="0.000122683">
+        </testcase>
+    </testsuite>
+</testsuites>

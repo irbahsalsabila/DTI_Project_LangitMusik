@@ -1,0 +1,79 @@
+[
+  {
+    "description": "    As a user\n    I want to see FAQ on the website",
+    "elements": [
+      {
+        "id": "see-faq-on-the-website;user-success-to-see-faq-the-website",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "User success to see FAQ the website",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "website langit music",
+            "result": {
+              "status": "passed",
+              "duration": 683610
+            },
+            "line": 9,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/faqfitur/step-definitions/faq-steps.js:2"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "user click link FAQ",
+            "result": {
+              "status": "passed",
+              "duration": 174401
+            },
+            "line": 10,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/faqfitur/step-definitions/faq-steps.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "User can see the FAQ on the website",
+            "result": {
+              "status": "passed",
+              "duration": 122683
+            },
+            "line": 11,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/faqfitur/step-definitions/faq-steps.js:12"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 13244355185
+            },
+            "hidden": true,
+            "match": {
+              "location": "Archive/Desktop/DATAA/Development/DTI/faqfitur/node_modules/selenium-cucumber-js/runtime/world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@success",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "see-faq-on-the-website",
+    "keyword": "Feature",
+    "line": 3,
+    "name": "See FAQ on the website",
+    "tags": [],
+    "uri": "/Users/rizkaviosudiro/iCloud Drive (Archive)/Desktop/DATAA/Development/DTI/faqfitur/features/faq.feature"
+  }
+]
